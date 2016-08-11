@@ -11,6 +11,6 @@ storage
 recovery
 storage
 
-# Packages - package-sync
-packages/**
+# Packages excluding package-sync
+packages/*
 !packages/package-sync
