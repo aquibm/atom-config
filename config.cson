@@ -1,0 +1,22 @@
+"*":
+  core:
+    themes: [
+      "genesis-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "b13e6510-75cf-140b-3952-7500f29c437b"
+  "expand-region": {}
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+  "seti-ui": {}
+  welcome:
+    showOnStartup: false
+".gitignore.source":
+  editor:
+    tabLength: 4

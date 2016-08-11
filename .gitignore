@@ -1,0 +1,16 @@
+# Atom default
+blob-store
+compile-cache
+dev
+storage
+.node-gyp
+.npm
+
+# Extra ignores
+.apm
+recovery
+storage
+
+# Packages - package-sync
+packages/**
+!packages/package-sync
